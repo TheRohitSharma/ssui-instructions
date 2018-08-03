@@ -95,6 +95,7 @@ So once you've logged in with your new parent account, you should immediately be
 You can choose to submit the answers or skip the validation (if you don't care about the student it's connected to, for example)
 
 One you've completed these, one way or another, you will see a success screen.
+
 ![enter image description here](https://lh3.googleusercontent.com/BNb9TFIaY6C6w8ypgpmfzP6X-f6nN1ACWDtrwzxajyNDqtK51jmJG5SfqfHNx39mGNYneBiEDlE)
 
 Any time you log in or reopen the app and do NOT have a verified validation, you will see this screen. If you DO have a verified validation, you will be taken to the main app.
