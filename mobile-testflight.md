@@ -71,6 +71,7 @@ When a potential user is created through our web frontend, in the Parent Access 
 Tap the link in the text message, and then you will be prompted to open the app. Go ahead and accept that.
 
 You should see the following screen
+
 ![enter image description here](https://lh3.googleusercontent.com/UF28Qe3aH3NmsDk6hU0Xm0L-_qr1pFyO4zG7uIKt4Mp8jL0BUSIBr5c_9T8v_lswTw3sRr61UoY)
 
 Enter the mobile code from your text, and for now, you'll have to retrieve your email code from customer.io, by making sure you are in the TEST environment and finding the email from the Delivery Log.
