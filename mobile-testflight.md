@@ -5,7 +5,7 @@
 	
 ![enter image description here](https://lh3.googleusercontent.com/CUDGswBcGdNvMzKJGw1WQkSaoO1y6iKpVtrGxiqeLdVpAzAKKAiUOf6z1_dGkF0xEv7vYVtvHwE) ![enter image description here](https://lh3.googleusercontent.com/ZQcGV218BQfWjmZbtxQNfgzeiM8aP9EN2F93Wj22bxRE6weZl4o71Ihm8yvIhFc41oyxg8VtUqo)   ![enter image description here](https://lh3.googleusercontent.com/HqTTxqI2bBG2DtCzl52KQxkpf1rFFAxWaig9a7GoCn1Os_ULBaNUpEfipXz4fstlm9hn9V_hZQM) ![enter image description here](https://lh3.googleusercontent.com/C8t0xR6GyXxh4VCCGrUVMwF4xPSengsQN9YlgZdhG-kRo95ZP4OzKYQBsEvC14byLVV4adugf-E)
 
-	
+---
 
 ## BROADCAST
  
@@ -23,6 +23,8 @@ Let's select 'Contacts' here (or Courses and Groups), and then search/select the
 
 
 **You won't be able to proceed without having at least one recipient selected and without having less than 150 recipients.**
+
+
 
 Once you hit 'Create Message', you should land here. Compose your message and tap the send button at the bottom right.
 
@@ -45,8 +47,7 @@ Let's tap on the broadcast we just sent to view the details.
 
 And that's broadcast messaging in a nutshell.
 
-
-
+---
 
 ## Incoming Calling
 
@@ -61,6 +62,8 @@ Now that there is an established call log between the two, the person that was c
 ![enter image description here](https://lh3.googleusercontent.com/ul5TwWX_ZK_I1sffOPOkox5gTUj4_cG1ouoxk4A-voSCXa5MJoYzlPpH568xqIvfbLSaCV1MAGA)
 
 You'll be able to accept the call and start talking to the person (unless you're trying to call yourself, in which case, you'll at least be able to accept the call)
+
+---
 
 ## Parent Verification
 
@@ -84,7 +87,7 @@ Once that's been done, you should be finished and now have a parent user account
 
 ![enter image description here](https://lh3.googleusercontent.com/5fbKO0ETaotE7P-9zpT3K_3WlO6MBImKeWtJvOYse2KCNhpPsH-X8cuzSPYZUB8CsOKjXKOITb6d)
 
-
+---
 
 ## Parent Validation
 
@@ -99,6 +102,8 @@ One you've completed these, one way or another, you will see a success screen.
 ![enter image description here](https://lh3.googleusercontent.com/BNb9TFIaY6C6w8ypgpmfzP6X-f6nN1ACWDtrwzxajyNDqtK51jmJG5SfqfHNx39mGNYneBiEDlE)
 
 Any time you log in or reopen the app and do NOT have a verified validation, you will see this screen. If you DO have a verified validation, you will be taken to the main app.
+
+---
 
 ## Parent App
 
